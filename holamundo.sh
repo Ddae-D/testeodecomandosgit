@@ -1,7 +1,7 @@
 #!/bin/bash
-saludo="Wellcome to the UnderWorld"
-#echo $saludo
+hi="Wellcome to the UnderWorld"
+#echo $hi
 echo "tell me your name please: "
 read name
-echo $saludo $name
+echo $hi $name
 
